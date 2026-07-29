@@ -62,8 +62,3 @@ window.addEventListener("scroll", () => {
 // Welcome Message
 // =============================
 
-window.onload = () => {
-
-    alert("Welcome to Shivani Gupta's Portfolio!");
-
-};
